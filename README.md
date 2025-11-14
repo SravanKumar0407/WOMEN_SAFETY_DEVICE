@@ -164,19 +164,3 @@ Lat: 17.406500, Long: 78.477200
 
 ---
 
-## **📄 License**
-
-This project is open-source and free to use for educational and research purposes.
-
----
-
-If you want, I can also provide:
-
-✅ Circuit Diagram
-✅ Block Diagram
-✅ Flowchart
-✅ Full Report PDF
-✅ PPT for project submission
-✅ Abstract (IEEE format)
-
-Just tell me!
