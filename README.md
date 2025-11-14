@@ -1,8 +1,3 @@
-# Women_Safety_Device
-Here is a **perfect, clean, professional README.md** section you can directly add to your GitHub repo for this project.
-(I've written it in proper markdown format.)
-
----
 
 # **Women Safety Device Using GSM, GPS & Heart Rate Monitoring**
 
